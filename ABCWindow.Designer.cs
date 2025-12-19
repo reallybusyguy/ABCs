@@ -70,7 +70,7 @@ namespace ABCs
             button15 = new ABCButton("O", color, font, size, button14.Location + horizDistance, buttonD_MouseDown, buttonD_MouseUp);
             button16 = new ABCButton("P", color, font, size, button15.Location + horizDistance, buttonC_MouseDown, buttonC_MouseUp);
 
-            // Row4 4 of buttons
+            // Row 4 of buttons
             button17 = new ABCButton("Q", color, font, size, button12.Location + vertDistance, buttonG_MouseDown, buttonG_MouseUp);
             button18 = new ABCButton("R", color, font, size, button17.Location + horizDistance, buttonG_MouseDown, buttonG_MouseUp);
             button19 = new ABCButton("S", color, font, size, button18.Location + horizDistance, buttonF_MouseDown, buttonF_MouseUp);
