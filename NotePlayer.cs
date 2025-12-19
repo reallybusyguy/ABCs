@@ -80,7 +80,8 @@ namespace ABCs
 
         public void StartPlaying()
         {
-            _waveOut.Play();        }
+            _waveOut.Play();
+        }
 
         public void StopPlaying()
         {
