@@ -339,6 +339,7 @@ namespace ABCs
             _playerF.SetToneType(NotePlayer.NoteType.Sin);
             _playerG.SetToneType(NotePlayer.NoteType.Sin);
             _playerA.SetToneType(NotePlayer.NoteType.Sin);
+            _playerB.SetToneType(NotePlayer.NoteType.Sin);
         }
 
         private void UseTriangle()
@@ -349,6 +350,7 @@ namespace ABCs
             _playerF.SetToneType(NotePlayer.NoteType.Triangle);
             _playerG.SetToneType(NotePlayer.NoteType.Triangle);
             _playerA.SetToneType(NotePlayer.NoteType.Triangle);
+            _playerB.SetToneType(NotePlayer.NoteType.Triangle);
         }
 
         private void UseSquare()
@@ -359,6 +361,7 @@ namespace ABCs
             _playerF.SetToneType(NotePlayer.NoteType.Square);
             _playerG.SetToneType(NotePlayer.NoteType.Square);
             _playerA.SetToneType(NotePlayer.NoteType.Square);
+            _playerB.SetToneType(NotePlayer.NoteType.Square);
         }
 
         private void UseSawTooth()
@@ -369,6 +372,7 @@ namespace ABCs
             _playerF.SetToneType(NotePlayer.NoteType.SawTooth);
             _playerG.SetToneType(NotePlayer.NoteType.SawTooth);
             _playerA.SetToneType(NotePlayer.NoteType.SawTooth);
+            _playerB.SetToneType(NotePlayer.NoteType.SawTooth);
         }
 
         private void SetButtonColor(Color color)
